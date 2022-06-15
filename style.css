@@ -147,6 +147,9 @@ h3 {
     padding-block: 2rem;
     width: min(95%, 70rem);
     margin-inline: auto;
+
+    display: grid;
+    gap: 1.5rem;
 }
 
 .testimonial {
